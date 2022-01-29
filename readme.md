@@ -14,3 +14,9 @@ https://user-images.githubusercontent.com/16290220/151664029-e0746626-b7f4-488c-
 - 色は時間とかで動的に変えていっても面白そう
 - パーティクルの粒度をいじればパーティクルで描画されているテキスト感を強くできそう
 - いろいろな値をいじればいろいろなアニメーションを表現できそう
+
+## 参考
+https://www.youtube.com/watch?v=HMQ9fEX28fk
+
+前回の parcel　のやつが使いやすかったらそっちのやり方で書き直したい感はある
+https://github.com/Yuki-Sakaguchi/pixi-golden-spiral
