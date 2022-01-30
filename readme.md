@@ -1,5 +1,6 @@
 # PIXI.js でインタラクティブなタイポグラフィのアニメーションを作る
-https://yuki-sakaguchi.github.io/pixi-kinetic-typography/
+- https://yuki-sakaguchi.github.io/pixi-kinetic-typography/sample01
+- https://yuki-sakaguchi.github.io/pixi-kinetic-typography/sample02
 
 https://user-images.githubusercontent.com/16290220/151664029-e0746626-b7f4-488c-9583-0b6bc1d24e4f.mov
 
